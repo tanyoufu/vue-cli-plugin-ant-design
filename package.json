@@ -1,6 +1,6 @@
 {
   "name": "@tanyoufu/vue-cli-plugin-ant-design-vue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "vue-cli 3 plugin to add ant-design-vue",
   "main": "index.js",
   "scripts": {

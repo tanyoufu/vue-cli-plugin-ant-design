@@ -1,5 +1,1 @@
-module.exports = [
-  {
-    name: 'import'
-  }
-]
+module.exports = []
